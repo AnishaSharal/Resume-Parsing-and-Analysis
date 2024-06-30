@@ -12,4 +12,4 @@ This application aims to streamline the process of matching job descriptions wit
 
 ## You can Modify the Job Description (optional)
 If you want to change the job description to match a different job role, you can modify the job_description dictionary in the code. Here is an example of how you can customize it:
-
+![Setup Steps](img.png)
