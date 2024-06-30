@@ -3,8 +3,8 @@ This application aims to streamline the process of matching job descriptions wit
 
 ## Steps to Set Up and Run the Application
 1.**Open Google Colab:**
-  -- Go to Google Colab (access through your browser)
-  -- Click on "File" in the top-left corner, then select "New Notebook." and upload the file.
+-- Go to Google Colab (access through your browser)
+-- Click on "File" in the top-left corner, then select "New Notebook." and upload the file.
 2.** Upload the Dataset: **
     - In the left sidebar, click on the "Files" tab.
     - Click the "Upload" button and upload all the PDF resumes provided (5 in total).
